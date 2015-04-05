@@ -1,0 +1,1 @@
+A generic extractor for Dino Crisis 1 & 2. It currently supports only the PlayStation builds of the game, even if it can apparently read PC files without crashing. Support for other ports might be implemented with following updates.
